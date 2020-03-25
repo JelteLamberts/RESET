@@ -1,2 +1,4 @@
 # RESET
-just making a game, don't mind me
+just making a game, don't mind me.
+Yeah that's basically it.
+Bye.
